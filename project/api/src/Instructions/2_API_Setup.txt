@@ -1,0 +1,4 @@
+API Framework : Flask 
+Line : Details
+[1,2] : Ignoring warnings when running the code in the terminal 
+[5-7] : Flask Dependencies which is used in this project

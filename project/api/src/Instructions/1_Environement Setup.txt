@@ -1,0 +1,23 @@
+SETTING UP API 
+
+[0] - Open a cammand prompt terminal for our project folder.
+      Project Folder : T:\ICG_Project\API>
+
+[1] - Create Virtual Environment 
+      syntax: python -m venv api_venv 
+      Description: Create Virtual Environment from the base python installed in the system, tuhs creating a new folder called api_venv and has all the files of python 
+
+[2] - Activating the virtual environment
+      steps: [1] - Go to environment folder in this api_venv
+      steps: [2] - Scripts Folder --> activate.bat folder select. 
+      steps: [3] - Copy Relative path by right clicking activate.bat , then paste and run it in the terminal to activate the virtual environment  
+      Output:  (api_venv) T:\ICG_Project\API>
+      Description: In order to use the virtual environment iin this project directory
+
+[3] - Create new folder for source files called src 
+
+[4] - create a new file called service.py in src (src/service.py)
+
+[5] - Install Dependencies 
+      syntax : pip install -r requirements.txt 
+
