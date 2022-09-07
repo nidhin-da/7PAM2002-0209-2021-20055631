@@ -1,1 +1,4 @@
 ICG_venv/
+project/api/src/__pycache__/caption_generator.cpython-37.pyc
+project/webapp/modules/__pycache__/api_request.cpython-37.pyc
+.gitignore
